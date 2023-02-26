@@ -1,0 +1,1 @@
+Projeto da Rocketseat feito para aprimorar meus conhecimentos em CSS. No HTML foram usado links para direcionamento de sites e redes sociais. Já no CSS tem o design bastante moderno e funcional usando transictions, animations com @keyframes.
