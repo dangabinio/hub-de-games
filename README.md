@@ -1,1 +1,7 @@
-Projeto da Rocketseat feito para aprimorar meus conhecimentos em CSS. No HTML foram usado links para direcionamento de sites e redes sociais. Já no CSS tem o design bastante moderno e funcional usando transictions, animations com @keyframes.
+# Hub de Games
+
+Projeto da Rocketseat feito para aprimorar meus conhecimentos em CSS. No HTML foram usado links para direcionamento de sites e redes sociais. O CSS possui design moderno e funcional usando transictions e animations com @keyframes.
+
+
+### assistir o vídeo explicativo
+[![viedo explicativo](https://github.com/dangabinio/hub-de-games/blob/main/Imagem%20hub%20de%20games.jpg)](https://youtu.be/X-bZQa_gxS0)
